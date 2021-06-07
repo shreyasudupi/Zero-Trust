@@ -1,4 +1,6 @@
 # Awesome Zero trust
+![image](https://user-images.githubusercontent.com/68043327/121101807-8eeab600-c7ca-11eb-88c3-b9cb8b5648ea.png)
+
 
 ## History
 
@@ -49,10 +51,13 @@ To be clear, _perimeter security is not defunct_, nor is zero-trust security a p
 
 The zero-trust security model was first articulated by [John Kindervag](http://www.virtualstarmedia.com/downloads/Forrester_zero_trust_DNA.pdf) in 2010, and by Google in 2011 as a result of the [Operation Aurora](https://en.wikipedia.org/wiki/Operation_Aurora) breach. What follows is a curated list of resources that covers the topic in more depth.
 
-### Government Recommendations
+### Gov Recommendations
 
 - NIST SP 800-207 [Zero Trust Architecture](https://doi.org/10.6028/NIST.SP.800-207)
 - UK National Cyber Security Centre [Zero trust architecture design principles](https://github.com/ukncsc/zero-trust-architecture/)
+- [ACT-IAC Zero Trust Project Briefing](https://www.actiac.org/document/zero-trust-project-briefing)
+- [ZERO TRUST REPORT: LESSONS LEARNED FROM VENDOR AND PARTNER RESEARCH](https://www.actiac.org/document/zero-trust-report-lessons-learned-vendor-and-partner-research)
+- 
 
 ### Books
 
@@ -81,3 +86,5 @@ The zero-trust security model was first articulated by [John Kindervag](http://w
 - [What, Why, and How of Zero Trust Networking](https://youtu.be/eDVHIfVSdIo?list=PLKb9-P1fRHxhSmCy5OaYZ5spcY8v3Pbaf) by Armon Dadgar, Hashicorp
 - [O'Reilly Security 2017 NYC Beyondcorp: Beyond Fortress Security](https://youtu.be/oAvDASLehpY?list=PLKb9-P1fRHxhSmCy5OaYZ5spcY8v3Pbaf) by Neal Muller, Google
 - [Be Ready for BeyondCorp: enterprise identity, perimeters and your application](https://youtu.be/5UiWAlwok1s?list=PLKb9-P1fRHxhSmCy5OaYZ5spcY8v3Pbaf) by Jason Kent
+- [A Simplified and Practical Approach to Pursuing a Zero Trust Architecture](https://www.youtube.com/watch?v=A32ZwFjXyWU) - RSA Conference 2020
+- 
