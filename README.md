@@ -55,9 +55,11 @@ The zero-trust security model was first articulated by [John Kindervag](http://w
 
 - NIST SP 800-207 [Zero Trust Architecture](https://doi.org/10.6028/NIST.SP.800-207)
 - UK National Cyber Security Centre [Zero trust architecture design principles](https://github.com/ukncsc/zero-trust-architecture/)
-- [ACT-IAC Zero Trust Project Briefing](https://www.actiac.org/document/zero-trust-project-briefing) - May 6, 2021
-- [ZERO TRUST REPORT: LESSONS LEARNED FROM VENDOR AND PARTNER RESEARCH ACT-IAC](https://www.actiac.org/document/zero-trust-report-lessons-learned-vendor-and-partner-research) - May 5, 2021
+- ACT-IAC [Zero Trust Project Briefing](https://www.actiac.org/document/zero-trust-project-briefing) - May 6, 2021
+- ACT-IAC [ZERO TRUST REPORT: LESSONS LEARNED FROM VENDOR AND PARTNER RESEARCH](https://www.actiac.org/document/zero-trust-report-lessons-learned-vendor-and-partner-research) - May 5, 2021
 - [Zero Trust Architecture Technical Exchange Meeting NCCoE](https://www.nccoe.nist.gov/events/zero-trust-architecture-technical-exchange-meeting)
+- Jericho Forum™ Commandments - [Jericho Forum™ Commandments](https://static.spiceworks.com/attachments/post/0016/4842/commandments_v1.2.pdf#:~:text=The%20Jericho%20Forum%20commandments%20define%20both%20the%20areas,benchmark%20by%20which%20concepts%2C%20solutions%2C%20standards%2C%20and%20systems)
+- 
 
 ### Books
 
@@ -95,5 +97,6 @@ The zero-trust security model was first articulated by [John Kindervag](http://w
 
 ### Product Vendor Videos
 - Cisco 2020 [How to approach a Zero Trust security model Cisco](https://www.youtube.com/watch?v=6q6c0Ld0qx0)
+- Palo Alto Networks 2020 [Zero Trust: The Strategic Approach to Stop Data Breaches](https://www.youtube.com/watch?v=MxiuCXNCzFI)
 - 
 
