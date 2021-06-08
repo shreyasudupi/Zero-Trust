@@ -51,13 +51,13 @@ To be clear, _perimeter security is not defunct_, nor is zero-trust security a p
 
 The zero-trust security model was first articulated by [John Kindervag](http://www.virtualstarmedia.com/downloads/Forrester_zero_trust_DNA.pdf) in 2010, and by Google in 2011 as a result of the [Operation Aurora](https://en.wikipedia.org/wiki/Operation_Aurora) breach. What follows is a curated list of resources that covers the topic in more depth.
 
-### Gov Recommendations
+### Recommendations
 
 - NIST SP 800-207 [Zero Trust Architecture](https://doi.org/10.6028/NIST.SP.800-207)
 - UK National Cyber Security Centre [Zero trust architecture design principles](https://github.com/ukncsc/zero-trust-architecture/)
 - [ACT-IAC Zero Trust Project Briefing](https://www.actiac.org/document/zero-trust-project-briefing) - May 6, 2021
 - [ZERO TRUST REPORT: LESSONS LEARNED FROM VENDOR AND PARTNER RESEARCH](https://www.actiac.org/document/zero-trust-report-lessons-learned-vendor-and-partner-research) - May 5, 2021
-- 
+- [Zero Trust Architecture Technical Exchange Meeting NCCoE](https://www.nccoe.nist.gov/events/zero-trust-architecture-technical-exchange-meeting)
 
 ### Books
 
