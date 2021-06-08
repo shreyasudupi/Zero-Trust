@@ -7,7 +7,7 @@ Table of Contents
    * [Zero Trust](#zero-trust)
       * [History](#history)
          * [Gaps in the perimeter](#gaps-in-the-perimeter)
-      * [Tenets of  Zero-trust](#tenets-of--zero-trust)
+      * [Tenets of  Zero-Trust](#tenets-of-zero-trust)
       * [Pillars of  Zero-Trust](#pillars-of--zero-trust)
       * [ACT-IAC Zero-Trust Usecases](#act-iac-zero-trust-usecases)
       * [Further reading](#further-reading)
@@ -54,7 +54,7 @@ In summary, perimeter based security suffers from the following shortcomings:
 
 perimeter security is not defunct_, nor is zero-trust security a panacea or a single product. Many of the ideas and principles of perimeter security are still relevant and are part of a holistic, and wide-ranging security policy. After all, we still want our castles to have high walls.
 
-## Tenets of  Zero-trust
+## Tenets of Zero-Trust
 
 - **Assume a Hostile Environment** - There are malicious personas both inside and outside the network. All users, devices, and networks/environments are treated as untrusted.
 - **Presume Breach** - There are hundreds of thousands of attempted cybersecurity attacks against DOD networks every day. Consciously operate and defend resources with the assumption that an adversary has presence within your environment. Enhanced scrutiny of access and authorization decisions to improve response outcomes.
