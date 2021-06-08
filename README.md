@@ -59,7 +59,7 @@ The zero-trust security model was first articulated by [John Kindervag](http://w
 - ACT-IAC [ZERO TRUST REPORT: LESSONS LEARNED FROM VENDOR AND PARTNER RESEARCH](https://www.actiac.org/document/zero-trust-report-lessons-learned-vendor-and-partner-research) - May 2021
 - [Zero Trust Architecture Technical Exchange Meeting NCCoE](https://www.nccoe.nist.gov/events/zero-trust-architecture-technical-exchange-meeting)
 - Jericho Forum™ Commandments - [Jericho Forum™ Commandments](https://static.spiceworks.com/attachments/post/0016/4842/commandments_v1.2.pdf#:~:text=The%20Jericho%20Forum%20commandments%20define%20both%20the%20areas,benchmark%20by%20which%20concepts%2C%20solutions%2C%20standards%2C%20and%20systems)
-- [Department of Defense (DOD) Zero Trust Reference Architecture] (https://dodcio.defense.gov/Portals/0/Documents/Library/(U)ZT_RA_v1.1(U)_Mar21.pdf) - February 2021
+- [Department of Defense (DOD) Zero Trust Reference Architecture](https://dodcio.defense.gov/Portals/0/Documents/Library/(U)ZT_RA_v1.1(U)_Mar21.pdf) - February 2021
 - 
 
 ### Books
