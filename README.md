@@ -1,6 +1,23 @@
 # Zero Trust
 ![image](https://user-images.githubusercontent.com/68043327/121101807-8eeab600-c7ca-11eb-88c3-b9cb8b5648ea.png)
 
+Table of Contents
+=================
+
+   * [Zero Trust](#zero-trust)
+      * [History](#history)
+         * [Gaps in the perimeter](#gaps-in-the-perimeter)
+      * [Tenets of  Zero-trust](#tenets-of--zero-trust)
+      * [Pillars of  Zero-Trust](#pillars-of--zero-trust)
+      * [ACT-IAC Zero-Trust Usecases](#act-iac-zero-trust-usecases)
+      * [Further reading](#further-reading)
+         * [Recommendations](#recommendations)
+         * [Books](#books)
+         * [Papers](#papers)
+         * [Posts](#posts)
+         * [Videos](#videos)
+         * [Product Vendor Videos](#product-vendor-videos)
+
 
 ## History
 
