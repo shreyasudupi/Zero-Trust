@@ -108,6 +108,11 @@ The zero-trust security model was first articulated by [John Kindervag](http://w
 - Wall Street Journal [Google Moves Its Corporate Applications to the Internet](https://blogs.wsj.com/cio/2015/05/11/google-moves-its-corporate-applications-to-the-internet/)
 - Gitlab's [Blog series](https://about.gitlab.com/blog/tags.html#zero-trust) and their [reddit AMA](https://www.reddit.com/r/netsec/comments/d71p1d/were_a_100_remote_cloudnative_company_and_were/)
 - [Implementing Zero Trust with Microsoft Azure 1 of 6](https://devblogs.microsoft.com/azuregov/implementing-zero-trust-with-microsoft-azure-identity-and-access-management-1-of-6/)
+- [Implementing Zero Trust with Microsoft Azure 2 of 6](https://devblogs.microsoft.com/azuregov/protecting-cloud-workloads-for-zero-trust-with-azure-security-center-2-of-6/)
+- [Implementing Zero Trust with Microsoft Azure 3 of 6](https://devblogs.microsoft.com/azuregov/monitoring-cloud-security-for-zero-trust-with-azure-sentinel-3-of-6/)
+- [Implementing Zero Trust with Microsoft Azure 4 of 6](https://devblogs.microsoft.com/azuregov/enforcing-policy-for-zero-trust-with-azure-policy-4-of-6/)
+- [Implementing Zero Trust with Microsoft Azure 5 of 6](https://devblogs.microsoft.com/azuregov/insider-threat-monitoring-for-zero-trust-with-microsoft-azure-5-of-6/)
+- [Implementing Zero Trust with Microsoft Azure 6 of 6](https://devblogs.microsoft.com/azuregov/supply-chain-risk-management-for-zero-trust-with-microsoft-azure-6-of-6/)
 - NCCoE [Zero Trust Architecture Technical Exchange Meeting](https://www.nccoe.nist.gov/events/zero-trust-architecture-technical-exchange-meeting)
 - [Zero-trust ldap wiki](https://ldapwiki.com/wiki/Zero%20Trust)
 
