@@ -53,12 +53,12 @@ The zero-trust security model was first articulated by [John Kindervag](http://w
 
 ### Recommendations
 
-- Jericho Forum™ Commandments - [Jericho Forum™ Commandments](https://static.spiceworks.com/attachments/post/0016/4842/commandments_v1.2.pdf#:~:text=The%20Jericho%20Forum%20commandments%20define%20both%20the%20areas,benchmark%20by%20which%20concepts%2C%20solutions%2C%20standards%2C%20and%20systems) - May 2007
-- [Zero Trust Architecture Technical Exchange Meeting NCCoE](https://www.nccoe.nist.gov/events/zero-trust-architecture-technical-exchange-meeting) - November 2019
+- Jericho Forum™ Commandments - [Jericho Forum™ Commandments](https://static.spiceworks.com/attachments/post/0016/4842/commandments_v1.2.pdf) - May 2007
+- NCCoE [IMPLEMENTING A ZERO TRUST ARCHITECTURE](https://www.nccoe.nist.gov/sites/default/files/library/project-descriptions/zta-project-description-final.pdf) - Oct 2020
 - UK National Cyber Security Centre [Zero trust architecture design principles](https://github.com/ukncsc/zero-trust-architecture/) - 2020
 - NIST SP 800-207 [Zero Trust Architecture](https://doi.org/10.6028/NIST.SP.800-207) - August 2020
-- [DoD EnterpriseIdentity, Credential, and Access Management (ICAM) Reference Design](https://dodcio.defense.gov/Portals/0/Documents/Cyber/DoD_Enterprise_ICAM_Reference_Design.pdf) Aug 2020
-- [Department of Defense (DOD) Zero Trust Reference Architecture](https://dodcio.defense.gov/Portals/0/Documents/Library/(U)ZT_RA_v1.1(U)_Mar21.pdf) - February 2021
+- Department of Defense (DOD) [Enterprise Identity, Credential, and Access Management (ICAM) Reference Design](https://dodcio.defense.gov/Portals/0/Documents/Cyber/DoD_Enterprise_ICAM_Reference_Design.pdf) Aug 2020
+- Department of Defense (DOD) [Zero Trust Reference Architecture](https://dodcio.defense.gov/Portals/0/Documents/Library/(U)ZT_RA_v1.1(U)_Mar21.pdf) - February 2021
 - ACT-IAC [Zero Trust Project Briefing](https://www.actiac.org/document/zero-trust-project-briefing) - May 2021
 - ACT-IAC [ZERO TRUST REPORT: LESSONS LEARNED FROM VENDOR AND PARTNER RESEARCH](https://www.actiac.org/document/zero-trust-report-lessons-learned-vendor-and-partner-research) - May 2021
 
@@ -80,7 +80,10 @@ The zero-trust security model was first articulated by [John Kindervag](http://w
 - Google BeyondCorp 6 [Secure your endpoints: "Building a Healthy Fleet"](https://ai.google/research/pubs/pub47356)
 - ACT-IAC [Zero Trust Cybersecurity Current Trends 2019](https://www.actiac.org/system/files/ACT-IAC%20Zero%20Trust%20Project%20Report%2004182019.pdf)
 - Microsoft [Zero Trust Maturity Model](https://go.microsoft.com/fwlink/p/?LinkID=2109181&clcid=0x409&culture=en)
-- [Implementing a Zero Trust security model at Microsoft](https://www.microsoft.com/en-us/itshowcase/implementing-a-zero-trust-security-model-at-microsoft#printpdf)
+- Microsoft [Implementing a Zero Trust security model at Microsoft](https://www.microsoft.com/en-us/itshowcase/implementing-a-zero-trust-security-model-at-microsoft#printpdf)
+- Palo Alto [Zero Trust Deployment at Palo Alto Networks](https://www.paloaltonetworks.com/apps/pan/public/downloadResource?pagePath=/content/pan/en_US/resources/use-case/zero-trust-deployment-at-palo-alto-networks)
+- Okta [Getting Started with Zero Trust](https://www.okta.com/sites/default/files/2021-02/WPR_Getting-Started-With-Zero-Trust.pdf)
+- Duo [Zero Trust: Going Beyond the Perimeter]()
 
 ### Posts
 
@@ -88,6 +91,7 @@ The zero-trust security model was first articulated by [John Kindervag](http://w
 - Wall Street Journal [Google Moves Its Corporate Applications to the Internet](https://blogs.wsj.com/cio/2015/05/11/google-moves-its-corporate-applications-to-the-internet/)
 - Gitlab's [Blog series](https://about.gitlab.com/blog/tags.html#zero-trust) and their [reddit AMA](https://www.reddit.com/r/netsec/comments/d71p1d/were_a_100_remote_cloudnative_company_and_were/)
 - [Implementing Zero Trust with Microsoft Azure 1 of 6](https://devblogs.microsoft.com/azuregov/implementing-zero-trust-with-microsoft-azure-identity-and-access-management-1-of-6/)
+- NCCoE [Zero Trust Architecture Technical Exchange Meeting](https://www.nccoe.nist.gov/events/zero-trust-architecture-technical-exchange-meeting)
 
 ### Videos
 
