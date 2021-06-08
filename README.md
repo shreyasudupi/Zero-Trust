@@ -88,6 +88,8 @@ The zero-trust security model was first articulated by [John Kindervag](http://w
 - [Be Ready for BeyondCorp: enterprise identity, perimeters and your application](https://youtu.be/5UiWAlwok1s?list=PLKb9-P1fRHxhSmCy5OaYZ5spcY8v3Pbaf) by Jason Kent
 - [A Simplified and Practical Approach to Pursuing a Zero Trust Architecture](https://www.youtube.com/watch?v=A32ZwFjXyWU) - RSA Conference 2020
 - [ACT-IAC Zero Trust Briefing](https://www.youtube.com/watch?v=XIxeXMqT23M) - May 7, 2021
+- [Zero-Trust Networks: The Future Is Here - SANS Blue Team Summit 2019](https://www.youtube.com/watch?v=EF_0dr8WkX8)
+- 
 
 ### Product Vendor Videos
 - Cisco 2020 [How to approach a Zero Trust security model Cisco](https://www.youtube.com/watch?v=6q6c0Ld0qx0)
