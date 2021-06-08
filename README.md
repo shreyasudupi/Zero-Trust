@@ -83,7 +83,7 @@ The zero-trust security model was first articulated by [John Kindervag](http://w
 - Microsoft [Implementing a Zero Trust security model at Microsoft](https://www.microsoft.com/en-us/itshowcase/implementing-a-zero-trust-security-model-at-microsoft#printpdf)
 - Palo Alto [Zero Trust Deployment at Palo Alto Networks](https://www.paloaltonetworks.com/apps/pan/public/downloadResource?pagePath=/content/pan/en_US/resources/use-case/zero-trust-deployment-at-palo-alto-networks)
 - Okta [Getting Started with Zero Trust](https://www.okta.com/sites/default/files/2021-02/WPR_Getting-Started-With-Zero-Trust.pdf)
-- Duo [Zero Trust: Going Beyond the Perimeter](https://cdw-prod.adobecqms.net/content/dam/cdw/on-domain-cdw/brands/cisco/zero-trust-going-beyond-the-perimeter.pdf)
+- Duo [Zero Trust: Going Beyond the Perimeter](https://duo.com/assets/ebooks/zero-trust-going-beyond-the-perimeter.pdf)
 
 ### Posts
 
