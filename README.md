@@ -61,7 +61,7 @@ perimeter security is not defunct_, nor is zero-trust security a panacea or a si
 - [Use Case 2 - Digital Worker Access](https://www.actiac.org/zero-trust-use-case/use-case-2-digital-worker-access)
 - [Use Case 3 - SOC Improvement](https://www.actiac.org/zero-trust-use-case/use-case-3-soc-improvement)
 - [Use Case 4 - Container Isolation / Access](https://www.actiac.org/zero-trust-use-case/use-case-4-container-isolation-access)
-- [Use Case 5 - Machine-To-Machine Application Access](Use Case 5 - Machine-To-Machine Application Access)
+- [Use Case 5 - Machine-To-Machine Application Access](https://www.actiac.org/zero-trust-use-case/use-case-5-machine-machine-application-access)
 - [Use Case 6 - Secure Operational Technology And Internet Of Things Devices](https://www.actiac.org/zero-trust-use-case/use-case-6-secure-operational-technology-and-internet-things-devices)
 
 ## Further reading
