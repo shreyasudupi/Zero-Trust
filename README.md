@@ -45,7 +45,7 @@ perimeter security is not defunct_, nor is zero-trust security a panacea or a si
 - **Scrutinize Explicitly** - All resources are consistently accessed in a secure manner using multiple attributes (dynamic and static) to derive confidence levels for contextual access to resources. Access to resources is conditional and access can dynamically change based on action and confidence levels resulting from those actions.
 - **Apply Unified Analytics** - Apply unified analytics for Data, Applications, Assets, Services (DAAS) to include behavioristics, and log each transaction.
 
-## Pillars of  Zero-trust
+## Pillars of  Zero-Trust
 ![image](https://user-images.githubusercontent.com/68043327/121213592-60152400-c84c-11eb-8f21-fe5f2a18212d.png)
 
 - **Identities** - They can represent people, services, or IOT devices.
@@ -55,6 +55,14 @@ perimeter security is not defunct_, nor is zero-trust security a panacea or a si
 - **Applications/Workloads** - Includes tasks on systems or services on-premises, as well as applications or services running in a cloud environment.
 - **Analytics/Automation** - Detection of events, incidents, anomalous behavior, performance and activity baseline. Automated policiy based decisons and SOAR capabilities.
 
+## ACT-IAC Zero-Trust Usecases
+
+- [Use Case 1 - Remote Application Access](https://www.actiac.org/zero-trust-use-case/use-case-1-remote-application-access)
+- [Use Case 2 - Digital Worker Access](https://www.actiac.org/zero-trust-use-case/use-case-2-digital-worker-access)
+- [Use Case 3 - SOC Improvement](https://www.actiac.org/zero-trust-use-case/use-case-3-soc-improvement)
+- [Use Case 4 - Container Isolation / Access](https://www.actiac.org/zero-trust-use-case/use-case-4-container-isolation-access)
+- [Use Case 5 - Machine-To-Machine Application Access](Use Case 5 - Machine-To-Machine Application Access)
+- [Use Case 6 - Secure Operational Technology And Internet Of Things Devices](https://www.actiac.org/zero-trust-use-case/use-case-6-secure-operational-technology-and-internet-things-devices)
 
 ## Further reading
 
