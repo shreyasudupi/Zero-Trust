@@ -55,11 +55,12 @@ The zero-trust security model was first articulated by [John Kindervag](http://w
 
 - Jericho Forum™ Commandments - [Jericho Forum™ Commandments](https://static.spiceworks.com/attachments/post/0016/4842/commandments_v1.2.pdf#:~:text=The%20Jericho%20Forum%20commandments%20define%20both%20the%20areas,benchmark%20by%20which%20concepts%2C%20solutions%2C%20standards%2C%20and%20systems) - May 2007
 - [Zero Trust Architecture Technical Exchange Meeting NCCoE](https://www.nccoe.nist.gov/events/zero-trust-architecture-technical-exchange-meeting) - November 2019
+- UK National Cyber Security Centre [Zero trust architecture design principles](https://github.com/ukncsc/zero-trust-architecture/) - 2020
 - NIST SP 800-207 [Zero Trust Architecture](https://doi.org/10.6028/NIST.SP.800-207) - August 2020
-- UK National Cyber Security Centre [Zero trust architecture design principles](https://github.com/ukncsc/zero-trust-architecture/)
 - ACT-IAC [Zero Trust Project Briefing](https://www.actiac.org/document/zero-trust-project-briefing) - May 2021
 - ACT-IAC [ZERO TRUST REPORT: LESSONS LEARNED FROM VENDOR AND PARTNER RESEARCH](https://www.actiac.org/document/zero-trust-report-lessons-learned-vendor-and-partner-research) - May 2021
 - [Department of Defense (DOD) Zero Trust Reference Architecture](https://dodcio.defense.gov/Portals/0/Documents/Library/(U)ZT_RA_v1.1(U)_Mar21.pdf) - February 2021
+
 
 
 ### Books
@@ -94,11 +95,13 @@ The zero-trust security model was first articulated by [John Kindervag](http://w
 - [No More Firewalls! How Zero-Trust Networks Are Reshaping Cybersecurity](https://www.youtube.com/watch?v=pyyd_OXHucI) - RSA Conference 2019
 - [The Fallacy of the "Zero-Trust Network"](https://www.youtube.com/watch?v=tFrbt9s4Fns) - RSA Conference 2019
 - [A Simplified and Practical Approach to Pursuing a Zero Trust Architecture](https://www.youtube.com/watch?v=A32ZwFjXyWU) - RSA Conference 2020
-- [ACT-IAC Zero Trust Briefing](https://www.youtube.com/watch?v=XIxeXMqT23M) - May 7, 2021
-- 
+- [ACT-IAC Zero Trust Briefing](https://www.youtube.com/watch?v=XIxeXMqT23M) - May 2021
+
 
 ### Product Vendor Videos
 - Cisco 2020 [How to approach a Zero Trust security model Cisco](https://www.youtube.com/watch?v=6q6c0Ld0qx0)
 - Palo Alto Networks 2020 [Zero Trust: The Strategic Approach to Stop Data Breaches](https://www.youtube.com/watch?v=MxiuCXNCzFI)
+- Palo Alto - John Kindervag 2020 [Implementing Best Practices for Zero Trust](https://www.youtube.com/watch?v=-ld2lfz6ytU)
 - Okta 2021 [Moving the Zero Trust Maturity Needle -  University of Newcastle](https://www.youtube.com/watch?v=YCScMCRM8Io)
 - Microsoft Mechanics Playlist 2021 [Zero Trust Essentials](https://youtube.com/playlist?list=PLXtHYVsvn_b_P09Jqw65XvV0zp6HP2liu)
+
