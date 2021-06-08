@@ -9,6 +9,7 @@ Table of Contents
          * [Gaps in the perimeter](#gaps-in-the-perimeter)
       * [Tenets of  Zero-Trust](#tenets-of-zero-trust)
       * [Pillars of  Zero-Trust](#pillars-of-zero-trust)
+      * [Logical Components of Zero Trust Architecture](#logical-components-of-zero-trust-architecture)
       * [ACT-IAC Zero-Trust Usecases](#act-iac-zero-trust-usecases)
       * [Further reading](#further-reading)
          * [Recommendations](#recommendations)
