@@ -102,6 +102,7 @@ The zero-trust security model was first articulated by [John Kindervag](http://w
 - Cisco 2020 [How to approach a Zero Trust security model Cisco](https://www.youtube.com/watch?v=6q6c0Ld0qx0)
 - Palo Alto Networks 2020 [Zero Trust: The Strategic Approach to Stop Data Breaches](https://www.youtube.com/watch?v=MxiuCXNCzFI)
 - Palo Alto - John Kindervag 2020 [Implementing Best Practices for Zero Trust](https://www.youtube.com/watch?v=-ld2lfz6ytU)
+- Microsoft's approach to Zero Trust 2020 [How Microsoft does Zero Trust](https://www.youtube.com/watch?v=bZCH4nkNP34)
 - Okta 2021 [Moving the Zero Trust Maturity Needle -  University of Newcastle](https://www.youtube.com/watch?v=YCScMCRM8Io)
 - Microsoft Mechanics Playlist 2021 [Zero Trust Essentials](https://youtube.com/playlist?list=PLXtHYVsvn_b_P09Jqw65XvV0zp6HP2liu)
 
