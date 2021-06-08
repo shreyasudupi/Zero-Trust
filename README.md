@@ -39,21 +39,21 @@ perimeter security is not defunct_, nor is zero-trust security a panacea or a si
 
 ## Tenets of  Zero-trust
 
-- **Assume a Hostile Environment** There are malicious personas both inside and outside the network. All users, devices, and networks/environments are treated as untrusted.
-- **Presume Breach** There are hundreds of thousands of attempted cybersecurity attacks against DOD networks every day. Consciously operate and defend resources with the assumption that an adversary has presence within your environment. Enhanced scrutiny of access and authorization decisions to improve response outcomes.
-- **Never Trust, Always Verify** Deny access by default. Every device, user, application/workload, and data flow are authenticated and explicitly authorized using least privilege, multiple attributes, and dynamic cybersecurity policies.
-- **Scrutinize Explicitly** All resources are consistently accessed in a secure manner using multiple attributes (dynamic and static) to derive confidence levels for contextual access to resources. Access to resources is conditional and access can dynamically change based on action and confidence levels resulting from those actions.
-- **Apply Unified Analytics** Apply unified analytics for Data, Applications, Assets, Services (DAAS) to include behavioristics, and log each transaction.
+- **Assume a Hostile Environment** - There are malicious personas both inside and outside the network. All users, devices, and networks/environments are treated as untrusted.
+- **Presume Breach** - There are hundreds of thousands of attempted cybersecurity attacks against DOD networks every day. Consciously operate and defend resources with the assumption that an adversary has presence within your environment. Enhanced scrutiny of access and authorization decisions to improve response outcomes.
+- **Never Trust, Always Verify** - Deny access by default. Every device, user, application/workload, and data flow are authenticated and explicitly authorized using least privilege, multiple attributes, and dynamic cybersecurity policies.
+- **Scrutinize Explicitly** - All resources are consistently accessed in a secure manner using multiple attributes (dynamic and static) to derive confidence levels for contextual access to resources. Access to resources is conditional and access can dynamically change based on action and confidence levels resulting from those actions.
+- **Apply Unified Analytics** - Apply unified analytics for Data, Applications, Assets, Services (DAAS) to include behavioristics, and log each transaction.
 
 ## Pillars of  Zero-trust
 ![image](https://user-images.githubusercontent.com/68043327/121213592-60152400-c84c-11eb-8f21-fe5f2a18212d.png)
 
-- **Identities** They can represent people, services, or IOT devices.
-- **Devices** Having the ability to identify, authenticate, authorize, inventory, isolate, secure, remediate, and control all devices.
-- **Network** Segment (both logically and physically), isolate, and control the network/environment (on-premises and off-premises) with granular access and policy restrictions.
-- **Data** Data discovery, governance, classification, and tagging.
-- **Applications/Workloads** Includes tasks on systems or services on-premises, as well as applications or services running in a cloud environment.
-- **Analytics/Automation** Detection of events, incidents, anomalous behavior, performance and activity baseline. Automated policiy based decisons and SOAR capabilities.
+- **Identities** - They can represent people, services, or IOT devices.
+- **Devices** - Having the ability to identify, authenticate, authorize, inventory, isolate, secure, remediate, and control all devices.
+- **Network** - Segment (both logically and physically), isolate, and control the network/environment (on-premises and off-premises) with granular access and policy restrictions.
+- **Data** - Data discovery, governance, classification, and tagging.
+- **Applications/Workloads** - Includes tasks on systems or services on-premises, as well as applications or services running in a cloud environment.
+- **Analytics/Automation** - Detection of events, incidents, anomalous behavior, performance and activity baseline. Automated policiy based decisons and SOAR capabilities.
 
 
 ## Further reading
