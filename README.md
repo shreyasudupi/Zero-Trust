@@ -59,7 +59,6 @@ The zero-trust security model was first articulated by [John Kindervag](http://w
 - ACT-IAC [ZERO TRUST REPORT: LESSONS LEARNED FROM VENDOR AND PARTNER RESEARCH](https://www.actiac.org/document/zero-trust-report-lessons-learned-vendor-and-partner-research) - May 5, 2021
 - [Zero Trust Architecture Technical Exchange Meeting NCCoE](https://www.nccoe.nist.gov/events/zero-trust-architecture-technical-exchange-meeting)
 - Jericho Forum™ Commandments - [Jericho Forum™ Commandments](https://static.spiceworks.com/attachments/post/0016/4842/commandments_v1.2.pdf#:~:text=The%20Jericho%20Forum%20commandments%20define%20both%20the%20areas,benchmark%20by%20which%20concepts%2C%20solutions%2C%20standards%2C%20and%20systems)
-- 
 
 ### Books
 
@@ -100,5 +99,3 @@ The zero-trust security model was first articulated by [John Kindervag](http://w
 - Palo Alto Networks 2020 [Zero Trust: The Strategic Approach to Stop Data Breaches](https://www.youtube.com/watch?v=MxiuCXNCzFI)
 - Okta 2021 [Moving the Zero Trust Maturity Needle -  University of Newcastle](https://www.youtube.com/watch?v=YCScMCRM8Io)
 - Microsoft Mechanics Playlist 2021 [Zero Trust Essentials](https://youtube.com/playlist?list=PLXtHYVsvn_b_P09Jqw65XvV0zp6HP2liu)
-- 
-
