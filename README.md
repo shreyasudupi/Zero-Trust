@@ -34,7 +34,8 @@ In summary, perimeter based security suffers from the following shortcomings:
 - Network segmentation is a time-consuming, and difficult to get exactly right mechanism for ensuring secure communication.
 - Even just defining what the network perimeter is is an increasingly difficult proposition in a remote-work, BYOD, multi-cloud world. Most organizations are a heterogeneous mix of clouds, servers, devices, and organizational units.
 - VPNs are often misused and exacerbate the issue by opening yet another door into your network organization.
-- perimeter security is not defunct_, nor is zero-trust security a panacea or a single product. Many of the ideas and principles of perimeter security are still relevant and are part of a holistic, and wide-ranging security policy. After all, we still want our castles to have high walls.
+
+perimeter security is not defunct_, nor is zero-trust security a panacea or a single product. Many of the ideas and principles of perimeter security are still relevant and are part of a holistic, and wide-ranging security policy. After all, we still want our castles to have high walls.
 
 ### Tenets of  Zero-trust
 
