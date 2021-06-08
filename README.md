@@ -73,6 +73,7 @@ The zero-trust security model was first articulated by [John Kindervag](http://w
 - Google BeyondCorp 4 [Migrating to BeyondCorp: Maintaining Productivity While Improving Security](https://research.google.com/pubs/pub46134.html)
 - Google BeyondCorp 5 [The human element: "The User Experience"](https://research.google.com/pubs/pub46366.html)
 - Google BeyondCorp 6 [Secure your endpoints: "Building a Healthy Fleet"](https://ai.google/research/pubs/pub47356)
+- ACT-IAC [Zero Trust Cybersecurity Current Trends 2019](https://www.actiac.org/system/files/ACT-IAC%20Zero%20Trust%20Project%20Report%2004182019.pdf)
 
 ### Posts
 
