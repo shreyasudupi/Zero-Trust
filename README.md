@@ -1,4 +1,4 @@
-# Awesome Zero trust
+# Zero trust
 ![image](https://user-images.githubusercontent.com/68043327/121101807-8eeab600-c7ca-11eb-88c3-b9cb8b5648ea.png)
 
 
