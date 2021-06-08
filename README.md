@@ -110,4 +110,5 @@ The zero-trust security model was first articulated by [John Kindervag](http://w
 - Microsoft Mechanics Playlist 2021 [Zero Trust Essentials](https://youtube.com/playlist?list=PLXtHYVsvn_b_P09Jqw65XvV0zp6HP2liu)
 - Security Architect Podcast [SASE ZeroTrust - Remote Access](https://youtube.com/playlist?list=PL3fwn2_OBVs39WMmTsVfSzobZ2P9JBLwz)
 - Security Architect Podcast [SASE Secure Web Gateway - Outbound browsing](https://youtube.com/playlist?list=PL3fwn2_OBVs1FbmVCy7YZRZcBI5eyi0Av)
+- VMware 2021 [Trusting Zero-Trust: How VMware IT Reimagined Security and Resiliency](https://www.youtube.com/watch?v=h6zhm9UskSU)
 
