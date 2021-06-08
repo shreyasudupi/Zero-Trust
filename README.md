@@ -108,4 +108,6 @@ The zero-trust security model was first articulated by [John Kindervag](http://w
 - Microsoft's approach to Zero Trust 2020 [How Microsoft does Zero Trust](https://www.youtube.com/watch?v=bZCH4nkNP34)
 - Okta 2021 [Moving the Zero Trust Maturity Needle -  University of Newcastle](https://www.youtube.com/watch?v=YCScMCRM8Io)
 - Microsoft Mechanics Playlist 2021 [Zero Trust Essentials](https://youtube.com/playlist?list=PLXtHYVsvn_b_P09Jqw65XvV0zp6HP2liu)
+- Security Architect Podcast [SASE ZeroTrust - Remote Access](https://youtube.com/playlist?list=PL3fwn2_OBVs39WMmTsVfSzobZ2P9JBLwz)
+- Security Architect Podcast [SASE Secure Web Gateway - Outbound browsing](https://youtube.com/playlist?list=PL3fwn2_OBVs1FbmVCy7YZRZcBI5eyi0Av)
 
