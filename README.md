@@ -34,18 +34,16 @@ In summary, perimeter based security suffers from the following shortcomings:
 - Network segmentation is a time-consuming, and difficult to get exactly right mechanism for ensuring secure communication.
 - Even just defining what the network perimeter is is an increasingly difficult proposition in a remote-work, BYOD, multi-cloud world. Most organizations are a heterogeneous mix of clouds, servers, devices, and organizational units.
 - VPNs are often misused and exacerbate the issue by opening yet another door into your network organization.
+- perimeter security is not defunct_, nor is zero-trust security a panacea or a single product. Many of the ideas and principles of perimeter security are still relevant and are part of a holistic, and wide-ranging security policy. After all, we still want our castles to have high walls.
 
-### Zero-trust, security behind the gates
+### Tenets of  Zero-trust
 
-[Zero-trust](https://ldapwiki.com/wiki/Zero%20Trust) instead attempts to mitigate these shortcomings by adopting the following principles:
+- **Assume a Hostile Environment**. There are malicious personas both inside and outside the network. All users, devices, and networks/environments are treated as untrusted.
+- **Presume Breach**. There are hundreds of thousands of attempted cybersecurity attacks against DOD networks every day. Consciously operate and defend resources with the assumption that an adversary has presence within your environment. Enhanced scrutiny of access and authorization decisions to improve response outcomes.
+- **Never Trust, Always Verify**. Deny access by default. Every device, user, application/workload, and data flow are authenticated and explicitly authorized using least privilege, multiple attributes, and dynamic cybersecurity policies.
+- **Scrutinize Explicitly**. All resources are consistently accessed in a secure manner using multiple attributes (dynamic and static) to derive confidence levels for contextual access to resources. Access to resources is conditional and access can dynamically change based on action and confidence levels resulting from those actions.
+- **Apply Unified Analytics**. Apply unified analytics for Data, Applications, Assets, Services (DAAS) to include behavioristics, and log each transaction.
 
-- Trust flows from identity, device-state, and context; not network location.
-- Treat both internal and external networks as untrusted.
-- Act like you are already breached, because you probably are.
-- Every device, user, and application's communication should be authenticated, authorized, and encrypted.
-- Access policy should be dynamic, and built from multiple sources.
-
-To be clear, _perimeter security is not defunct_, nor is zero-trust security a panacea or a single product. Many of the ideas and principles of perimeter security are still relevant and are part of a holistic, and wide-ranging security policy. After all, we still want our castles to have high walls.
 
 ## Further reading
 
@@ -92,6 +90,7 @@ The zero-trust security model was first articulated by [John Kindervag](http://w
 - Gitlab's [Blog series](https://about.gitlab.com/blog/tags.html#zero-trust) and their [reddit AMA](https://www.reddit.com/r/netsec/comments/d71p1d/were_a_100_remote_cloudnative_company_and_were/)
 - [Implementing Zero Trust with Microsoft Azure 1 of 6](https://devblogs.microsoft.com/azuregov/implementing-zero-trust-with-microsoft-azure-identity-and-access-management-1-of-6/)
 - NCCoE [Zero Trust Architecture Technical Exchange Meeting](https://www.nccoe.nist.gov/events/zero-trust-architecture-technical-exchange-meeting)
+- [Zero-trust ldap wiki](https://ldapwiki.com/wiki/Zero%20Trust)
 
 ### Videos
 
