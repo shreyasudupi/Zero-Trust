@@ -57,9 +57,10 @@ The zero-trust security model was first articulated by [John Kindervag](http://w
 - [Zero Trust Architecture Technical Exchange Meeting NCCoE](https://www.nccoe.nist.gov/events/zero-trust-architecture-technical-exchange-meeting) - November 2019
 - UK National Cyber Security Centre [Zero trust architecture design principles](https://github.com/ukncsc/zero-trust-architecture/) - 2020
 - NIST SP 800-207 [Zero Trust Architecture](https://doi.org/10.6028/NIST.SP.800-207) - August 2020
+- [DoD EnterpriseIdentity, Credential, and Access Management (ICAM) Reference Design](https://dodcio.defense.gov/Portals/0/Documents/Cyber/DoD_Enterprise_ICAM_Reference_Design.pdf) Aug 2020
+- [Department of Defense (DOD) Zero Trust Reference Architecture](https://dodcio.defense.gov/Portals/0/Documents/Library/(U)ZT_RA_v1.1(U)_Mar21.pdf) - February 2021
 - ACT-IAC [Zero Trust Project Briefing](https://www.actiac.org/document/zero-trust-project-briefing) - May 2021
 - ACT-IAC [ZERO TRUST REPORT: LESSONS LEARNED FROM VENDOR AND PARTNER RESEARCH](https://www.actiac.org/document/zero-trust-report-lessons-learned-vendor-and-partner-research) - May 2021
-- [Department of Defense (DOD) Zero Trust Reference Architecture](https://dodcio.defense.gov/Portals/0/Documents/Library/(U)ZT_RA_v1.1(U)_Mar21.pdf) - February 2021
 
 
 
