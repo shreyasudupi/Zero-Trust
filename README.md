@@ -8,7 +8,7 @@ Table of Contents
       * [History](#history)
          * [Gaps in the perimeter](#gaps-in-the-perimeter)
       * [Tenets of  Zero-Trust](#tenets-of-zero-trust)
-      * [Pillars of  Zero-Trust](#pillars-of--zero-trust)
+      * [Pillars of  Zero-Trust](#pillars-of-zero-trust)
       * [ACT-IAC Zero-Trust Usecases](#act-iac-zero-trust-usecases)
       * [Further reading](#further-reading)
          * [Recommendations](#recommendations)
@@ -62,7 +62,7 @@ perimeter security is not defunct_, nor is zero-trust security a panacea or a si
 - **Scrutinize Explicitly** - All resources are consistently accessed in a secure manner using multiple attributes (dynamic and static) to derive confidence levels for contextual access to resources. Access to resources is conditional and access can dynamically change based on action and confidence levels resulting from those actions.
 - **Apply Unified Analytics and Automation** - Apply unified analytics for Data, Applications, Assets, Services (DAAS) to include behavioristics, and log each transaction.
 
-## Pillars of  Zero-Trust
+## Pillars of Zero-Trust
 ![image](https://user-images.githubusercontent.com/68043327/121213592-60152400-c84c-11eb-8f21-fe5f2a18212d.png)
 
 - **Identities** - They can represent people, services, or IOT devices.
@@ -71,6 +71,11 @@ perimeter security is not defunct_, nor is zero-trust security a panacea or a si
 - **Data** - Data discovery, governance, classification, and tagging.
 - **Applications/Workloads** - Includes tasks on systems or services on-premises, as well as applications or services running in a cloud environment.
 - **Analytics/Automation** - Detection of events, incidents, anomalous behavior, performance and activity baseline. Automated policiy based decisons and SOAR capabilities.
+
+## Logical Components of Zero Trust Architecture
+- **Policy engine (PE)**: This component is responsible for the ultimate decision to grant access to a resource for a given subject.
+- **Policy administrator (PA)**: This component is responsible for establishing and/or shutting down the communication path between a subject and a resource (via commands to relevant PEPs).
+- **Policy enforcement point (PEP)**: This system is responsible for enabling, monitoring, and eventually terminating connections between a subject and an enterprise resource.
 
 ## ACT-IAC Zero-Trust Usecases
 
