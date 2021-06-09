@@ -4,7 +4,7 @@
 Table of Contents
 =================
 
-   * [Zero Trust](#zero-trust)
+   * [Zero-Trust Security Model](#zero-trust-security-model)
       * [History](#history)
          * [Gaps in the perimeter](#gaps-in-the-perimeter)
       * [Tenets of  Zero-Trust](#tenets-of-zero-trust)
