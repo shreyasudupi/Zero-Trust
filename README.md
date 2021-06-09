@@ -76,7 +76,7 @@ perimeter security is not defunct_, nor is zero-trust security a panacea or a si
 
 ## Logical Components of Zero Trust Architecture
 
-![image](https://user-images.githubusercontent.com/68043327/121348546-7972aa80-c8f6-11eb-92db-c861021625ac.png)
+  ![image](https://user-images.githubusercontent.com/68043327/121348546-7972aa80-c8f6-11eb-92db-c861021625ac.png)
 
 - **Policy engine (PE)**: This component is responsible for the ultimate decision to grant access to a resource for a given subject.
 - **Policy administrator (PA)**: This component is responsible for establishing and/or shutting down the communication path between a subject and a resource (via commands to relevant PEPs).
