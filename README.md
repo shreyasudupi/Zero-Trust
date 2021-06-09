@@ -10,6 +10,7 @@ Table of Contents
       * [Tenets of  Zero-Trust](#tenets-of-zero-trust)
       * [Pillars of  Zero-Trust](#pillars-of-zero-trust)
       * [Logical Components of Zero Trust Architecture](#logical-components-of-zero-trust-architecture)
+      * [Zero Trust Architecture Approaches](#zero-trust-architecture-approaches)
       * [ACT-IAC Zero-Trust Usecases](#act-iac-zero-trust-usecases)
       * [Further reading](#further-reading)
          * [Recommendations](#recommendations)
