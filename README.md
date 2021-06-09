@@ -93,7 +93,7 @@ perimeter security is not defunct_, nor is zero-trust security a panacea or a si
 
   ![image](https://user-images.githubusercontent.com/68043327/121345018-5cd47380-c8f2-11eb-95c4-eec873b29177.png)
  
-- **Software Defined Perimeters** - The ZTA implementation could be achieved by using an overlay network (i.e., layer 7 but also could be set up lower of the OSI network stack). These approaches are sometimes referred to as software defined perimeter (SDP) approaches and frequently include concepts from Software Defined Networks (SDN).
+- **Software Defined Perimeters** - This can be achieved by using an overlay network (i.e., layer 7 but also could be set up lower of the OSI network stack). These approaches are sometimes referred to as software defined perimeter (SDP) approaches and frequently include concepts from Software Defined Networks (SDN).
 
   ![image](https://user-images.githubusercontent.com/68043327/121345208-92795c80-c8f2-11eb-8269-7dab41088109.png)
 
