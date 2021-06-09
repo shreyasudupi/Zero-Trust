@@ -74,6 +74,9 @@ perimeter security is not defunct_, nor is zero-trust security a panacea or a si
 - **Analytics/Automation** - Detection of events, incidents, anomalous behavior, performance and activity baseline. Automated policiy based decisons and SOAR capabilities.
 
 ## Logical Components of Zero Trust Architecture
+
+![image](https://user-images.githubusercontent.com/68043327/121348546-7972aa80-c8f6-11eb-92db-c861021625ac.png)
+
 - **Policy engine (PE)**: This component is responsible for the ultimate decision to grant access to a resource for a given subject.
 - **Policy administrator (PA)**: This component is responsible for establishing and/or shutting down the communication path between a subject and a resource (via commands to relevant PEPs).
 - **Policy enforcement point (PEP)**: This system is responsible for enabling, monitoring, and eventually terminating connections between a subject and an enterprise resource.
