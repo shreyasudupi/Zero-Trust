@@ -59,8 +59,8 @@ perimeter security is not defunct_, nor is zero-trust security a panacea or a si
 ## Tenets of Zero-Trust
 
 - **Assume a Hostile Environment** - There are malicious personas both inside and outside the network. All users, devices, and networks/environments are treated as untrusted.
-- **Presume Breach** - There are hundreds of thousands of attempted cybersecurity attacks against DOD networks every day. Consciously operate and defend resources with the assumption that an adversary has presence within your environment. Enhanced scrutiny of access and authorization decisions to improve response outcomes.
-- **Never Trust, Always Verify** - Deny access by default. Every device, user, application/workload, and data flow are authenticated and explicitly authorized using least privilege, multiple attributes, and dynamic cybersecurity policies.
+- **Presume Breach** - There are hundreds of attempted cybersecurity attacks against any networks every day. Consciously operate and defend resources with the assumption that an adversary has presence within your environment. Enhanced scrutiny of access and authorization decisions to improve response outcomes.
+- **Never Trust, Always Verify** - Deny access by default. Every device, user, application/workload, and data flow are authenticated and explicitly authorized using least privilege, multiple attributes and dynamic cybersecurity policies.
 - **Scrutinize Explicitly** - All resources are consistently accessed in a secure manner using multiple attributes (dynamic and static) to derive confidence levels for contextual access to resources. Access to resources is conditional and access can dynamically change based on action and confidence levels resulting from those actions.
 - **Apply Unified Analytics and Automation** - Apply unified analytics for Data, Applications, Assets, Services (DAAS) to include behavioristics, and log each transaction.
 
