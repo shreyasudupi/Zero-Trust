@@ -78,6 +78,18 @@ perimeter security is not defunct_, nor is zero-trust security a panacea or a si
 - **Policy administrator (PA)**: This component is responsible for establishing and/or shutting down the communication path between a subject and a resource (via commands to relevant PEPs).
 - **Policy enforcement point (PEP)**: This system is responsible for enabling, monitoring, and eventually terminating connections between a subject and an enterprise resource.
 
+## Zero Trust Architecture Approaches
+
+- **Enhanced Identity Governance** - Enterprise resource access policies are based on identity and assigned attributes. The primary requirement for resource access is based on the access privileges granted to the given subject. Other factors such as device used, asset status, and environmental factors may alter the final confidence level calculation (and ultimate access authorization) or tailor the result in some way, such as granting only partial access to a given data source based on network location.
+  ![image](https://user-images.githubusercontent.com/68043327/121345101-74136100-c8f2-11eb-8caf-a6f6a7c88758.png)
+ 
+- **logical micro-segmentation** - In this approach, the enterprise places infrastructure devices such as intelligent switches (or routers) or next generation firewalls (NGFWs) or special purpose gateway devices to act as PEPs protecting each resource or small group of related resources. Alternatively (or additionally), the enterprise may choose to implement host-based micro-segmentation using software agents.
+  ![image](https://user-images.githubusercontent.com/68043327/121345018-5cd47380-c8f2-11eb-95c4-eec873b29177.png)
+ 
+- **Software Defined Perimeters** - The ZTA implementation could be achieved by using an overlay network (i.e., layer 7 but also could be set up lower of the OSI network stack). These approaches are sometimes referred to as software defined perimeter (SDP) approaches and frequently include concepts from Software Defined Networks (SDN).
+  ![image](https://user-images.githubusercontent.com/68043327/121345208-92795c80-c8f2-11eb-8269-7dab41088109.png)
+
+
 ## ACT-IAC Zero-Trust Usecases
 
 - [Use Case 1 - Remote Application Access](https://www.actiac.org/zero-trust-use-case/use-case-1-remote-application-access)
