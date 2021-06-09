@@ -171,6 +171,7 @@ The zero-trust security model was first articulated by [John Kindervag](http://w
 - [The Fallacy of the "Zero-Trust Network"](https://www.youtube.com/watch?v=tFrbt9s4Fns) - RSA Conference 2019
 - SANS Could Security - Gigamon [Zero Trust What You Need to Know to Secure Your Data and Networks](https://youtu.be/iZ-9lbaFwqI)
 - [A Simplified and Practical Approach to Pursuing a Zero Trust Architecture](https://www.youtube.com/watch?v=A32ZwFjXyWU) - RSA Conference 2020
+- [Using SABSA to Architect Zero Trust Networks - COSAC Connect #1](https://youtu.be/WXoG9ETfJnk)
 - [ACT-IAC Zero Trust Briefing](https://www.youtube.com/watch?v=XIxeXMqT23M) - May 2021
 
 
