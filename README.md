@@ -145,6 +145,7 @@ The zero-trust security model was first articulated by [John Kindervag](http://w
 - [What, Why, and How of Zero Trust Networking](https://youtu.be/eDVHIfVSdIo?list=PLKb9-P1fRHxhSmCy5OaYZ5spcY8v3Pbaf) by Armon Dadgar, Hashicorp
 - [O'Reilly Security 2017 NYC Beyondcorp: Beyond Fortress Security](https://youtu.be/oAvDASLehpY?list=PLKb9-P1fRHxhSmCy5OaYZ5spcY8v3Pbaf) by Neal Muller, Google
 - [Be Ready for BeyondCorp: enterprise identity, perimeters and your application](https://youtu.be/5UiWAlwok1s?list=PLKb9-P1fRHxhSmCy5OaYZ5spcY8v3Pbaf) by Jason Kent
+- [SANS Webcast - Trust No One: Introducing SEC530: Defensible Security Architecture](https://www.youtube.com/watch?v=Q6yFqLmlcGo) - 2018
 - [Zero-Trust Networks: The Future Is Here](https://www.youtube.com/watch?v=EF_0dr8WkX8) - SANS Blue Team Summit 2019
 - [No More Firewalls! How Zero-Trust Networks Are Reshaping Cybersecurity](https://www.youtube.com/watch?v=pyyd_OXHucI) - RSA Conference 2019
 - [The Fallacy of the "Zero-Trust Network"](https://www.youtube.com/watch?v=tFrbt9s4Fns) - RSA Conference 2019
