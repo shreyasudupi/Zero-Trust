@@ -84,7 +84,7 @@ perimeter security is not defunct_, nor is zero-trust security a panacea or a si
 
   ![image](https://user-images.githubusercontent.com/68043327/121345101-74136100-c8f2-11eb-8caf-a6f6a7c88758.png)
  
-- **logical micro-segmentation** - In this approach, the enterprise places infrastructure devices such as intelligent switches (or routers) or next generation firewalls (NGFWs) or special purpose gateway devices to act as PEPs protecting each resource or small group of related resources. Alternatively (or additionally), the enterprise may choose to implement host-based micro-segmentation using software agents.
+- **Logical micro-segmentation** - In this approach, the enterprise places infrastructure devices such as intelligent switches (or routers) or next generation firewalls (NGFWs) or special purpose gateway devices to act as PEPs protecting each resource or small group of related resources. Alternatively (or additionally), the enterprise may choose to implement host-based micro-segmentation using software agents.
 
   ![image](https://user-images.githubusercontent.com/68043327/121345018-5cd47380-c8f2-11eb-95c4-eec873b29177.png)
  
