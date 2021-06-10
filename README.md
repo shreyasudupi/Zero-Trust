@@ -158,6 +158,7 @@ The zero-trust security model was first articulated by [John Kindervag](http://w
 - Microsoft Azure [Implementing Zero Trust with Microsoft Azure 6 of 6](https://devblogs.microsoft.com/azuregov/supply-chain-risk-management-for-zero-trust-with-microsoft-azure-6-of-6/)
 - NCCoE [Zero Trust Architecture Technical Exchange Meeting](https://www.nccoe.nist.gov/events/zero-trust-architecture-technical-exchange-meeting)
 - [Zero-trust ldap wiki](https://ldapwiki.com/wiki/Zero%20Trust)
+- [Adopt a Zero Trust approach for security — Essentials Series — Episode 1](https://techcommunity.microsoft.com/t5/microsoft-mechanics-blog/adopt-a-zero-trust-approach-for-security-essentials-series/ba-p/2348890)
 
 ### Videos
 
