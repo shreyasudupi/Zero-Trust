@@ -165,6 +165,7 @@ The zero-trust security model was first articulated by [John Kindervag](http://w
 - [USENIX Enigma 2016 - NSA TAO Chief on Disrupting Nation State Hackers](https://youtu.be/bDJb8WOJYdA?list=PLKb9-P1fRHxhSmCy5OaYZ5spcY8v3Pbaf)
 - [What, Why, and How of Zero Trust Networking](https://youtu.be/eDVHIfVSdIo?list=PLKb9-P1fRHxhSmCy5OaYZ5spcY8v3Pbaf) by Armon Dadgar, Hashicorp
 - [O'Reilly Security 2017 NYC Beyondcorp: Beyond Fortress Security](https://youtu.be/oAvDASLehpY?list=PLKb9-P1fRHxhSmCy5OaYZ5spcY8v3Pbaf) by Neal Muller, Google
+- [How Google Protects Its Corporate Security Perimeter without Firewalls](https://youtu.be/d90Ov6QM1jE)
 - [LISA17 - Clarifying Zero Trust: The Model, the Philosophy, the Ethos](https://youtu.be/Gi0oedg_UrM)
 - [Be Ready for BeyondCorp: enterprise identity, perimeters and your application](https://youtu.be/5UiWAlwok1s?list=PLKb9-P1fRHxhSmCy5OaYZ5spcY8v3Pbaf) by Jason Kent
 - [SANS Webcast - Trust No One: Introducing SEC530: Defensible Security Architecture](https://youtu.be/Q6yFqLmlcGo) - 2018
